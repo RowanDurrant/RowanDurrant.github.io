@@ -34,7 +34,10 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - research.html
+  - background.html
   - publications.html
+  - contact.html
   - blog.html
 
 # Exclude from processing.
